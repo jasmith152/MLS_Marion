@@ -1,0 +1,381 @@
+--------------------------------------------------------------
+2014-03-21 15:56
+Connected to RETS server and downloaded:
+office_office.csv
+agent_agent.csv
+property_residentialproperty.csv
+property_vacantland.csv
+property_commercialproperty.csv
+property_multifamily.csv
+property_businessopportunity.csv
+property_rental.csv
+Error performing query: SQLSTATE[28000]: Invalid authorization specification: 1045 Access denied for user 'naturmls_marion'@'localhost' (using password: YES)
+LOAD DATA LOW_PRIORITY INFILE '/home/naturmls/public_html/marion/data/idx_office.txt' REPLACE INTO TABLE naturmls_citrusmls.tbl_temp_idx_office FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '
+' IGNORE 1 LINES
+--------------------------------------------------------------
+2014-03-21 16:01
+Connected to RETS server and downloaded:
+office_office.csv
+agent_agent.csv
+property_residentialproperty.csv
+property_vacantland.csv
+property_commercialproperty.csv
+property_multifamily.csv
+property_businessopportunity.csv
+property_rental.csv
+Error performing query: SQLSTATE[28000]: Invalid authorization specification: 1045 Access denied for user 'naturmls_marion'@'localhost' (using password: YES)
+LOAD DATA LOW_PRIORITY INFILE '/home/naturmls/public_html/marion/data/idx_office.txt' REPLACE INTO TABLE naturmls_citrusmls.tbl_temp_idx_office FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '
+' IGNORE 1 LINES
+--------------------------------------------------------------
+2014-03-21 16:09
+Connected to RETS server and downloaded:
+office_office.csv
+agent_agent.csv
+property_residentialproperty.csv
+property_vacantland.csv
+property_commercialproperty.csv
+property_multifamily.csv
+property_businessopportunity.csv
+property_rental.csv
+Error performing query: SQLSTATE[28000]: Invalid authorization specification: 1045 Access denied for user 'naturmls_marion'@'localhost' (using password: YES)
+LOAD DATA LOW_PRIORITY INFILE '/home/naturmls/public_html/marion/data/idx_office.txt' REPLACE INTO TABLE naturmls_citrusmls.tbl_temp_idx_office FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '
+' IGNORE 1 LINES
+--------------------------------------------------------------
+2014-03-21 16:16
+Connected to RETS server and downloaded:
+office_office.csv
+agent_agent.csv
+property_residentialproperty.csv
+property_vacantland.csv
+property_commercialproperty.csv
+property_multifamily.csv
+property_businessopportunity.csv
+property_rental.csv
+Error performing query: SQLSTATE[28000]: Invalid authorization specification: 1045 Access denied for user 'naturmls_marion'@'localhost' (using password: YES)
+LOAD DATA LOW_PRIORITY INFILE '/home/naturmls/public_html/marion/data/idx_office.txt' REPLACE INTO TABLE naturmls_citrusmls.tbl_temp_idx_office FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '
+' IGNORE 1 LINES
+--------------------------------------------------------------
+2014-03-21 18:29
+Connected to RETS server and downloaded:
+office_office.csv
+agent_agent.csv
+property_residentialproperty.csv
+property_vacantland.csv
+property_commercialproperty.csv
+property_multifamily.csv
+property_businessopportunity.csv
+property_rental.csv
+Error performing query: SQLSTATE[28000]: Invalid authorization specification: 1045 Access denied for user 'naturmls_marion'@'localhost' (using password: YES)
+LOAD DATA LOW_PRIORITY INFILE '/home/naturmls/public_html/marion/data/idx_office.txt' REPLACE INTO TABLE naturmls_citrusmls.tbl_temp_idx_office FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '
+' IGNORE 1 LINES
+--------------------------------------------------------------
+2014-03-22 13:33
+Connected to RETS server and downloaded:
+office_office.csv
+agent_agent.csv
+property_residentialproperty.csv
+property_vacantland.csv
+property_commercialproperty.csv
+property_multifamily.csv
+property_businessopportunity.csv
+property_rental.csv
+Error performing query: SQLSTATE[28000]: Invalid authorization specification: 1045 Access denied for user 'naturmls_marion'@'localhost' (using password: YES)
+LOAD DATA LOW_PRIORITY INFILE '/home/naturmls/public_html/marion/data/idx_office.txt' REPLACE INTO TABLE naturmls_citrusmls.tbl_temp_idx_office FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '
+' IGNORE 1 LINES
+--------------------------------------------------------------
+2014-03-23 18:22
+Connected to RETS server and downloaded:
+office_office.csv
+agent_agent.csv
+property_residentialproperty.csv
+property_vacantland.csv
+property_commercialproperty.csv
+property_multifamily.csv
+property_businessopportunity.csv
+property_rental.csv
+Error performing query: SQLSTATE[28000]: Invalid authorization specification: 1045 Access denied for user 'naturmls_marion'@'localhost' (using password: YES)
+LOAD DATA LOW_PRIORITY INFILE '/home/naturmls/public_html/marion/data/idx_office.txt' REPLACE INTO TABLE naturmls_citrusmls.tbl_temp_idx_office FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '
+' IGNORE 1 LINES
+--------------------------------------------------------------
+2014-03-23 19:39
+Connected to RETS server and downloaded:
+office_office.csv
+agent_agent.csv
+property_residentialproperty.csv
+property_vacantland.csv
+property_commercialproperty.csv
+property_multifamily.csv
+property_businessopportunity.csv
+property_rental.csv
+Error performing query: SQLSTATE[28000]: Invalid authorization specification: 1045 Access denied for user 'naturmls_marion'@'localhost' (using password: YES)
+LOAD DATA LOW_PRIORITY INFILE '/home/naturmls/public_html/marion/data/idx_office.txt' REPLACE INTO TABLE naturmls_marionmls.tbl_temp_idx_office FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '
+' IGNORE 1 LINES
+--------------------------------------------------------------
+2014-03-23 19:44
+Connected to RETS server and downloaded:
+office_office.csv
+agent_agent.csv
+property_residentialproperty.csv
+property_vacantland.csv
+property_commercialproperty.csv
+property_multifamily.csv
+property_businessopportunity.csv
+property_rental.csv
+Error performing query: SQLSTATE[28000]: Invalid authorization specification: 1045 Access denied for user 'naturmls_marion'@'localhost' (using password: YES)
+LOAD DATA LOW_PRIORITY INFILE '/home/naturmls/public_html/marion/data/idx_office.txt' REPLACE INTO TABLE naturmls_marionmls.tbl_temp_idx_office FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '
+' IGNORE 1 LINES
+--------------------------------------------------------------
+2014-03-23 19:57
+Connected to RETS server and downloaded:
+office_office.csv
+agent_agent.csv
+property_residentialproperty.csv
+property_vacantland.csv
+property_commercialproperty.csv
+property_multifamily.csv
+property_businessopportunity.csv
+property_rental.csv
+Error performing query: SQLSTATE[28000]: Invalid authorization specification: 1045 Access denied for user 'naturmls_marion'@'localhost' (using password: YES)
+LOAD DATA LOW_PRIORITY INFILE '/home/naturmls/public_html/marion/data/idx_office.txt' REPLACE INTO TABLE naturmls_marionmls.tbl_temp_idx_office FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '
+' IGNORE 1 LINES
+--------------------------------------------------------------
+2014-03-23 20:04
+Connected to RETS server and downloaded:
+office_office.csv
+agent_agent.csv
+property_residentialproperty.csv
+property_vacantland.csv
+property_commercialproperty.csv
+property_multifamily.csv
+property_businessopportunity.csv
+property_rental.csv
+Error performing query: SQLSTATE[28000]: Invalid authorization specification: 1045 Access denied for user 'naturmls_marion'@'localhost' (using password: YES)
+LOAD DATA LOW_PRIORITY INFILE '/home/naturmls/public_html/marion/data/idx_office.txt' REPLACE INTO TABLE naturmls_marionmls.tbl_temp_idx_office FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '
+' IGNORE 1 LINES
+--------------------------------------------------------------
+2014-03-23 20:08
+Connected to RETS server and downloaded:
+office_office.csv
+agent_agent.csv
+property_residentialproperty.csv
+property_vacantland.csv
+property_commercialproperty.csv
+property_multifamily.csv
+property_businessopportunity.csv
+property_rental.csv
+Error performing query: SQLSTATE[28000]: Invalid authorization specification: 1045 Access denied for user 'naturmls_marion'@'localhost' (using password: YES)
+LOAD DATA LOW_PRIORITY INFILE '/home/naturmls/public_html/marion/data/idx_office.txt' REPLACE INTO TABLE naturmls_marionmls.tbl_temp_idx_office FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '
+' IGNORE 1 LINES
+--------------------------------------------------------------
+2014-03-24 15:15
+Connected to RETS server and downloaded:
+office_office.csv
+agent_agent.csv
+property_residentialproperty.csv
+property_vacantland.csv
+property_commercialproperty.csv
+property_multifamily.csv
+property_businessopportunity.csv
+property_rental.csv
+2701 records successfully imported into tbl_temp_idx_office.
+New data merged into tbl_idx_office successfully.
+12580 records successfully imported into tbl_temp_idx_agent.
+New data merged into tbl_idx_agent successfully.
+7888 records successfully imported into tbl_temp_idx_residential.
+New data merged into tbl_idx_residential successfully.
+4769 records successfully imported into tbl_temp_idx_vacant_land.
+New data merged into tbl_idx_vacant_land successfully.
+437 records successfully imported into tbl_temp_idx_commercial.
+New data merged into tbl_idx_commercial successfully.
+873 records successfully imported into tbl_temp_idx_multi_res.
+New data merged into tbl_idx_multi_res successfully.
+851 records successfully imported into tbl_temp_idx_business_op.
+New data merged into tbl_idx_business_op successfully.
+363 records successfully imported into tbl_temp_idx_rental.
+New data merged into tbl_idx_rental successfully.
+--------------------------------------------------------------
+--------------------------------------------------------------
+2014-03-25 20:12
+Connected to RETS server and downloaded:
+office_office.csv
+agent_agent.csv
+property_residentialproperty.csv
+property_vacantland.csv
+property_commercialproperty.csv
+property_multifamily.csv
+property_businessopportunity.csv
+property_rental.csv
+2703 records successfully imported into tbl_temp_idx_office.
+New data merged into tbl_idx_office successfully.
+12584 records successfully imported into tbl_temp_idx_agent.
+Error inserting new data: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2' for key 1
+--------------------------------------------------------------
+2014-03-25 20:17
+Connected to RETS server and downloaded:
+office_office.csv
+agent_agent.csv
+property_residentialproperty.csv
+property_vacantland.csv
+property_commercialproperty.csv
+property_multifamily.csv
+property_businessopportunity.csv
+property_rental.csv
+2703 records successfully imported into tbl_temp_idx_office.
+New data merged into tbl_idx_office successfully.
+12584 records successfully imported into tbl_temp_idx_agent.
+Error inserting new data: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+--------------------------------------------------------------
+2014-03-25 20:20
+Connected to RETS server and downloaded:
+office_office.csv
+agent_agent.csv
+property_residentialproperty.csv
+property_vacantland.csv
+property_commercialproperty.csv
+property_multifamily.csv
+property_businessopportunity.csv
+property_rental.csv
+2703 records successfully imported into tbl_temp_idx_office.
+New data merged into tbl_idx_office successfully.
+12584 records successfully imported into tbl_temp_idx_agent.
+New data merged into tbl_idx_agent successfully.
+7898 records successfully imported into tbl_temp_idx_residential.
+New data merged into tbl_idx_residential successfully.
+4789 records successfully imported into tbl_temp_idx_vacant_land.
+New data merged into tbl_idx_vacant_land successfully.
+435 records successfully imported into tbl_temp_idx_commercial.
+New data merged into tbl_idx_commercial successfully.
+869 records successfully imported into tbl_temp_idx_multi_res.
+New data merged into tbl_idx_multi_res successfully.
+847 records successfully imported into tbl_temp_idx_business_op.
+New data merged into tbl_idx_business_op successfully.
+355 records successfully imported into tbl_temp_idx_rental.
+New data merged into tbl_idx_rental successfully.
+--------------------------------------------------------------
+--------------------------------------------------------------
+2014-03-25 20:42
+Connected to RETS server and downloaded:
+office_office.csv
+agent_agent.csv
+property_residentialproperty.csv
+property_vacantland.csv
+property_commercialproperty.csv
+property_multifamily.csv
+property_businessopportunity.csv
+property_rental.csv
+2703 records successfully imported into tbl_temp_idx_office.
+New data merged into tbl_idx_office successfully.
+12584 records successfully imported into tbl_temp_idx_agent.
+New data merged into tbl_idx_agent successfully.
+7900 records successfully imported into tbl_temp_idx_residential.
+New data merged into tbl_idx_residential successfully.
+4789 records successfully imported into tbl_temp_idx_vacant_land.
+New data merged into tbl_idx_vacant_land successfully.
+435 records successfully imported into tbl_temp_idx_commercial.
+New data merged into tbl_idx_commercial successfully.
+869 records successfully imported into tbl_temp_idx_multi_res.
+New data merged into tbl_idx_multi_res successfully.
+847 records successfully imported into tbl_temp_idx_business_op.
+New data merged into tbl_idx_business_op successfully.
+355 records successfully imported into tbl_temp_idx_rental.
+New data merged into tbl_idx_rental successfully.
+--------------------------------------------------------------
+--------------------------------------------------------------
+2014-03-25 21:49
+Connected to RETS server and downloaded:
+office_office.csv
+agent_agent.csv
+property_residentialproperty.csv
+property_vacantland.csv
+property_commercialproperty.csv
+property_multifamily.csv
+property_businessopportunity.csv
+property_rental.csv
+2703 records successfully imported into tbl_temp_idx_office.
+New data merged into tbl_idx_office successfully.
+7136 records successfully imported into tbl_temp_idx_agent.
+Error deleting item: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'AgentStatus' in 'where clause'
+--------------------------------------------------------------
+2014-03-25 21:53
+Connected to RETS server and downloaded:
+office_office.csv
+agent_agent.csv
+property_residentialproperty.csv
+property_vacantland.csv
+property_commercialproperty.csv
+property_multifamily.csv
+property_businessopportunity.csv
+property_rental.csv
+2703 records successfully imported into tbl_temp_idx_office.
+New data merged into tbl_idx_office successfully.
+7136 records successfully imported into tbl_temp_idx_agent.
+New data merged into tbl_idx_agent successfully.
+7902 records successfully imported into tbl_temp_idx_residential.
+New data merged into tbl_idx_residential successfully.
+4789 records successfully imported into tbl_temp_idx_vacant_land.
+New data merged into tbl_idx_vacant_land successfully.
+435 records successfully imported into tbl_temp_idx_commercial.
+New data merged into tbl_idx_commercial successfully.
+869 records successfully imported into tbl_temp_idx_multi_res.
+New data merged into tbl_idx_multi_res successfully.
+847 records successfully imported into tbl_temp_idx_business_op.
+New data merged into tbl_idx_business_op successfully.
+355 records successfully imported into tbl_temp_idx_rental.
+New data merged into tbl_idx_rental successfully.
+--------------------------------------------------------------
+--------------------------------------------------------------
+2014-03-26 19:07
+Connected to RETS server and downloaded:
+office_office.csv
+agent_agent.csv
+property_residentialproperty.csv
+property_vacantland.csv
+property_commercialproperty.csv
+property_multifamily.csv
+property_businessopportunity.csv
+property_rental.csv
+3048 records successfully imported into tbl_temp_idx_office.
+New data merged into tbl_idx_office successfully.
+7137 records successfully imported into tbl_temp_idx_agent.
+New data merged into tbl_idx_agent successfully.
+7876 records successfully imported into tbl_temp_idx_residential.
+New data merged into tbl_idx_residential successfully.
+4787 records successfully imported into tbl_temp_idx_vacant_land.
+New data merged into tbl_idx_vacant_land successfully.
+438 records successfully imported into tbl_temp_idx_commercial.
+New data merged into tbl_idx_commercial successfully.
+875 records successfully imported into tbl_temp_idx_multi_res.
+New data merged into tbl_idx_multi_res successfully.
+853 records successfully imported into tbl_temp_idx_business_op.
+New data merged into tbl_idx_business_op successfully.
+367 records successfully imported into tbl_temp_idx_rental.
+New data merged into tbl_idx_rental successfully.
+--------------------------------------------------------------
+--------------------------------------------------------------
+2014-03-26 19:22
+Connected to RETS server and downloaded:
+office_office.csv
+agent_agent.csv
+property_residentialproperty.csv
+property_vacantland.csv
+property_commercialproperty.csv
+property_multifamily.csv
+property_businessopportunity.csv
+property_rental.csv
+1533 records successfully imported into tbl_temp_idx_office.
+New data merged into tbl_idx_office successfully.
+7137 records successfully imported into tbl_temp_idx_agent.
+New data merged into tbl_idx_agent successfully.
+7874 records successfully imported into tbl_temp_idx_residential.
+New data merged into tbl_idx_residential successfully.
+4787 records successfully imported into tbl_temp_idx_vacant_land.
+New data merged into tbl_idx_vacant_land successfully.
+438 records successfully imported into tbl_temp_idx_commercial.
+New data merged into tbl_idx_commercial successfully.
+875 records successfully imported into tbl_temp_idx_multi_res.
+New data merged into tbl_idx_multi_res successfully.
+853 records successfully imported into tbl_temp_idx_business_op.
+New data merged into tbl_idx_business_op successfully.
+367 records successfully imported into tbl_temp_idx_rental.
+New data merged into tbl_idx_rental successfully.
+--------------------------------------------------------------
